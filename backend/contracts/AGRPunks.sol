@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract AGRpunks is ERC721Enumerable, Ownable {
+contract AGRPunks is ERC721Enumerable, Ownable {
 
     using Strings for uint256;
 
